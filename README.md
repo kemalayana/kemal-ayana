@@ -1,6 +1,6 @@
 ## Hi there :wave:  KEMAL  is here. (LOADING...)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemal-ayana-64918122b/)
-<a href="https://ozcan-cetin.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=ozcan-cetin" alt="visitor counter" width="15%"/>
+<a href="https://github.com/kemalayana/kemalayana.github.io" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=ozcan-cetin" alt="visitor counter" width="15%"/>
 <!-- <p align="left">  </p> -->
 ### What I'm using ? :hammer_and_wrench:
 
@@ -36,6 +36,6 @@
 
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ozcan-cetin&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozcan-cetin&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozcan-cetin&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=kemal-ayana&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kemal-ayana&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemal-ayana&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
